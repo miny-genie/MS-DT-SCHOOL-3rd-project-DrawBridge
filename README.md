@@ -22,7 +22,7 @@ Microsoft Data School 1기에서 최우수상을 수상한 3차 프로젝트, **
 - **데이터 처리 환경**: PostgreSQL, Databricks, Azure Function App, ASA  
 - **시각화**: Power BI  
 - **웹 서비스**: React, Typescript, Tailwind
-- **서버 설정**: www.drawbridge.fit (도메인 연결 예정)
+- **서버 설정**: https://www.drawbridge.fit
 
 ---
 
