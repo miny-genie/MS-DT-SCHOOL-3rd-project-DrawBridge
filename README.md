@@ -127,7 +127,7 @@ python app.py
 
 ## 📑 문서 자료
 
-- [프로젝트 제안서](./docs/proposal_paper/)  
+- [프로젝트 기획서](./docs/proposal_paper/)  
 - [발표 자료 PPT](./docs/PPT/)  
 - [데일리 리포트](./docs/daily_report/)  
 - [테이블 명세서](./docs/table_definition/)  
